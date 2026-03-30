@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="&lt;div&gt;课题启动与技术路线规划&lt;/div&gt;" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="60" width="150" height="30" as="geometry" />
+        <mxCell id="2" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;课题启动与技术路线规划&lt;/font&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="232.5" y="50" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;获取基础资料&lt;/font&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="130" width="159" height="80" as="geometry" />
