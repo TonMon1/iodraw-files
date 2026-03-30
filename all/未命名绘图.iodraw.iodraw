@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="start" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="2" value="&lt;div&gt;课题启动与技术路线规划&lt;/div&gt;&lt;div&gt;获取基础资料&lt;/div&gt;&lt;div&gt;基础梳理与工程背景分析&lt;/div&gt;&lt;div&gt;施工总体部署与核心方案设计&lt;/div&gt;&lt;div&gt;现场平面布置、资源配置与专项管控措施&lt;/div&gt;&lt;div&gt;输出完整施工组织设计方案+实施效果评估与优化建议&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3" value="analyse project&#xa; documentation" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
