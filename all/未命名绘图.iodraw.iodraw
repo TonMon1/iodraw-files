@@ -46,22 +46,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h7ipZBlimplL-vHV2evW-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="22" target="20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="22" value="施工总体部署与&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;核心方案设计&lt;/span&gt;" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="230.25" y="660" width="159" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="h7ipZBlimplL-vHV2evW-56" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="590" as="sourcePoint" />
-            <mxPoint x="540" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h7ipZBlimplL-vHV2evW-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="590" as="sourcePoint" />
-            <mxPoint x="540" y="540" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
